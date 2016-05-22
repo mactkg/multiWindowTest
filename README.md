@@ -1,4 +1,4 @@
-a test application to test drawing an image beyond windows
+a test application to draw an image beyond windows
 
 of0093
 
